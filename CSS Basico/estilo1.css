@@ -1,0 +1,11 @@
+.texto{
+	color: red;
+	background: orange;
+}
+.fundo{
+	background-image:  url(Imagem2/yoshi.png);
+	
+	background-repeat:no-repeat;
+	background-position:center;
+	background-attachment:fixed;
+}
